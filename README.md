@@ -20,12 +20,12 @@ The device receives global UTC via GPS and converts this information into the DC
 
 ![My image](https://github.com/peterloes/clock_receiver/blob/master/Getting_Started_Tutorial/4_dcf77_range.jpg)
 
-reception zone DCF77 (Europe)
+Reception zone DCF77 (Europe)
 
 ![My image](https://github.com/peterloes/clock_receiver/blob/master/Getting_Started_Tutorial/5_wwvb_range.jpg)
 
-reception zone WWVB (United States)
+Reception zone WWVB (United States)
 
 ![My image](https://github.com/peterloes/clock_receiver/blob/master/Getting_Started_Tutorial/1_gps_converter_dcf77.jpg)
 
-reception zone GPS time signal (Worldwide)
+Reception zone GPS time signal (Worldwide)
