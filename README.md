@@ -12,14 +12,14 @@ Has been used since 2016.
 WWVB.c
 
 This module implements an WWVB time signal from radio station near Fort Collins,
-Colorado and is operated by the National Institute of Standards and Technology (NIST)
+Colorado and is operated by the National Institute of Standards and Technology (NIST).
 
 Unused potential. 
 
 GPS converter to DCF77.c
 
 The GPS-DCF Converter UTC± can be connected to a DCF77 signal input as an alternative to a DCF77 antenna.
-The device receives global UTC via GPS and converts this information into the DCF77 protocol
+The device receives global UTC via GPS and converts this information into the DCF77 protocol.
 
 Testing via RFID-MS (2019).
 
