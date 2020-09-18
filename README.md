@@ -44,3 +44,7 @@ https://github.com/peterloes/RFID-MS
 https://github.com/peterloes/MOMO
 
 https://github.com/peterloes/TAMDL
+
+Manufacture:
+
+https://github.com/peterloes/Clock_receiver_RFID-MS_MOMO_TAMDL/blob/master/Getting_Started_Tutorial/6_Supplier.txt
