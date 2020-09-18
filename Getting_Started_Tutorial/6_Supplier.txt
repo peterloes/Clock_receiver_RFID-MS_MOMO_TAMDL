@@ -1,18 +1,19 @@
-DCF77 Empfänger AASV DCFn PON/Ri/1m Aktivantenne SV DCFn 
-WWVBn Empfänger AASV PON / Ri / 1m
+Active antennas:
+DCF77 EmpfÃ¤nger AASV DCFn PON/Ri/1m Aktivantenne SV DCFn 
+WWVBn EmpfÃ¤nger AASV PON / Ri / 1m
 
 HKW-Elektronik GmbH
-Jörg Schneider
+JÃ¶rg Schneider
 
 Eisenacher Str. 42 b
-99848 Wutha-Farnroda / Thür.
+99848 Wutha-Farnroda / ThÃ¼r.
 Germany
 Phone:  +49 (0)36921 3080 130
 mailto:    schneider@hkw-elektronik.de
 www.hkw-elektronik.de
 
 
-GPS zu DCF Konverter
+GPS zu DCF Converter
 
 Musikelektronik & Daten- und Kommunikationstechnik                                      
 Andreas Schumann 
@@ -26,13 +27,14 @@ www.schumann-netzwerke.de
 www.die-funkuhr.de
 
 
-Lithium Ionen Akkupack Art.Nr. 60.16294 Panasonic NCR 18650GA 4S2P
+
+Lithium Ionen rechargeable battery pack Art.Nr. 60.16294 Panasonic NCR 18650GA 4S2P
 14,4Volt 6900mAh inklusive SMBus Kabel je. 150mm 
 
 DYNAMIS Batterien GmbH
 Josef Pfeil
 
-Brühlstraße 15  D- 78465 Dettingen / Konstanz
+BrÃ¼hlstraÃŸe 15  D- 78465 Dettingen / Konstanz
 Tel. +49 (0) 75 33/93 669-15
 mailto:josef.pfeil@dynamis-batterien.de
 www.dynamis-batterien.de
