@@ -14,7 +14,7 @@ WWVB.c
 This module implements an WWVB time signal from radio station near Fort Collins,
 Colorado and is operated by the National Institute of Standards and Technology (NIST).
 
-Unused potential. Only tested with WWVB Signal Generator! 
+Unused potential. Only tested with WWVB Signal Generator. Firmware not reviewed. 
 
 GPS converter to DCF77.c
 
