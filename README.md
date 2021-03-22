@@ -34,11 +34,15 @@ Testing via RFID-MS (2019).
 
 ![My image](https://github.com/peterloes/clock_receiver/blob/master/Getting_Started_Tutorial/4_dcf77_range.jpg)
 
-Reception zone DCF77 (Europe)
+Reception zone U.K. (MSF) and German (DCF77) 
 
 ![My image](https://github.com/peterloes/clock_receiver/blob/master/Getting_Started_Tutorial/5_wwvb_range.jpg)
 
-Reception zone WWVB (United States)
+Reception zone U.S. Time Calibration Signal (WWVB)
+
+![My image](https://github.com/peterloes/clock_receiver/blob/master/Getting_Started_Tutorial/7_bpc_range.jpg)
+
+Reception zone Chinese Time Calibration Signal (BPC)
 
 ![My image](https://github.com/peterloes/clock_receiver/blob/master/Getting_Started_Tutorial/1_gps_converter_dcf77.jpg)
 
