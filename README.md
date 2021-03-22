@@ -46,7 +46,7 @@ Reception zone Chinese Time Calibration Signal (BPC)
 
 ![My image](https://github.com/peterloes/clock_receiver/blob/master/Getting_Started_Tutorial/1_gps_converter_dcf77.jpg)
 
-Reception zone GPS time signal (Worldwide)
+Reception zone Worldwide with GPS converter to DCF77
 
 https://github.com/peterloes/Clock_receiver_RFID-MS_MOMO_TAMDL/blob/master/Getting_Started_Tutorial/1_gps_poster_overview.pdf
 
