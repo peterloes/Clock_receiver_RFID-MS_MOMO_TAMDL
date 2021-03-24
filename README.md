@@ -16,14 +16,20 @@ Colorado and is operated by the National Institute of Standards and Technology (
 
 Unused potential. Only tested with WWVB Signal Generator. Firmware not reviewed. 
 
-BPC.c
+BPC
+
+BPC: China, 68.5 kHz, commercial time signal, started broadcasting 2002-04-25,
+data format apparently proprietary, receiver vendors require a commercial licence. 
+
+Proprietary software, also known as non-free software, is computer software
+for which the software's publisher or another person reserves some rights
+from licenses to use, modify, share modifications, or share the software.
 
 China code radio clock is the Beijing standard time radio signal BPC(frequency 68.5kHz)
 transmitted by the radio tower of China National Time Service Center (Shangqiu, Henan Province),
 through the clock built-in microprocessor conversion, control the clock moving,
 so that the clock display time and Beijing standard time keep accurate and consistent.
 
-Unused potential. NOT available .NOT tested. Firmware not reviewed. 
 
 GPS converter to DCF77.c
 
