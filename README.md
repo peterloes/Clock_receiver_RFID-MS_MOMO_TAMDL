@@ -5,7 +5,7 @@ DCF77.c
 
 This module implements an German longwave time signal from Mainflingen,
 about 25 km south-east of Frankfurt am Main, Germany.
-DCF77 is controlled by the Physikalisch-Technische Bundesanstalt (PTB).
+DCF77(frequency 77.5kHz) is controlled by the Physikalisch-Technische Bundesanstalt (PTB).
 
 Has been used since 2016.
 
